@@ -3,6 +3,10 @@
 *The Ghost is a FPS, action-adventure, platformer, parkour game made in Unity.
 The main objective in the game is passing different types of challenges, using abilities obtained along the journey.*
 
+# Full Gameplay No commentary
+
+https://www.youtube.com/watch?v=OkBzGLBjfsA&t=3s
+
 # Team
 [Voica Mihai Cristian](https://github.com/Mickai55)\
 [Stanimir Andrei](https://github.com/AndreiStanimir)\

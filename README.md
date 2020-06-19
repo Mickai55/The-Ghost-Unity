@@ -1,24 +1,16 @@
-# Documention
-https://docs.google.com/document/d/11leKMO2rWkpuXrIZmG2Qf-fzn6g9BZzI1lJSDKLd4CI/edit?usp=sharing
+#The Ghost
 
-# Mds-proiect-test
+*The Ghost is a FPS, action-adventure, platformer, parkour game made in Unity.
+The main objective in the game is passing different types of challenges, using abilities obtained along the journey.*
 
-## Setup
+#Team
+[Voica Mihai Cristian](https://github.com/Mickai55)
+[Stanimir Andrei](https://github.com/AndreiStanimir)
+[Mititelu George Antonio](https://github.com/ToniMititelu)
+*Marcu Ionut*
+*Ferdous Maryiam*
 
-Instructions to add ssh key:
-https://docs.gitlab.com/ce/ssh/README.html
-
-``` bash
-git clone https://gitlab.com/AndreiStanimir/mds-proiect.git
-
-# add a ssh key, so you don't have to log in every time you want to push
-git branch nume-branch
-git checkout nume-branch
-
-git pull 
-# faceti ce vreti
-git add .
-git commit -m "mesaj"
-git push
+# Full Documentation
 ```
-After push, the branch must be merged to master from gitlab.
+https://docs.google.com/document/d/11leKMO2rWkpuXrIZmG2Qf-fzn6g9BZzI1lJSDKLd4CI/edit?usp=sharing
+```

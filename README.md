@@ -5,7 +5,7 @@ The main objective in the game is passing different types of challenges, using a
 
 # Full Gameplay No commentary
 
-https://www.youtube.com/watch?v=OkBzGLBjfsA&t=3s
+https://www.youtube.com/watch?v=OkBzGLBjfsA
 
 # Team
 [Voica Mihai Cristian](https://github.com/Mickai55)\
